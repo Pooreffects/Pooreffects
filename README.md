@@ -1,10 +1,10 @@
 ![Header](assets/header.png)
 
-# Hello! I'm **_Mohamed_** 🤓
+# Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm **_Mohamed_**
 
 ## A Little Bit of Background About Myself
 
-## <span style="color:#de5947">Frontend Developer</span>
+## <span style="color:#de5947">Frontend Developer
 
 ---
 
@@ -12,16 +12,27 @@ Apropos academics, I have studied **_English Linguistics_**, caught a _BA scroll
 
 ---
 
-### Languages, Tech Skills & Tooling
+### **Languages, Tech Skills & Tooling**
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" style="width: 40px" style="height: 40px"  style="margin-right: 1rem" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Javascript" style="width: 40px" style="height: 40px" style="margin-right: 1rem" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Javascript" style="width: 40px" style="height: 40px"  style="margin-right: 1rem">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Javascript" style="width: 40px" style="height: 40px" style="margin-right: 1rem" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Javascript" style="width: 40px" style="height: 40px" style="margin-right: 1rem" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Javascript" style="width: 40px" style="height: 40px" style="margin-right: 1rem" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Javascript" style="width: 40px" style="height: 40px" style="margin-right: 1rem" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Javascript" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/800px-Adobe_XD_CC_icon.svg.png" alt="Javascript" style="width: 30px" style="height: 30px" style="margin-right: 1rem" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1920px-Npm-logo.svg.png" alt="Javascript" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
-<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" alt="Javascript" style="width: 60px" style="height: 60px" style="margin-right: 1rem" >
+<p>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" style="width: 50px" style="height: 50px"  style="margin-right: 1rem" ></code>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Javascript" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Javascript" style="width: 50px" style="height: 50px"  style="margin-right: 1rem">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Javascript" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Javascript" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Javascript" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Javascript" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Javascript" style="width: 60px" style="height: 60px" style="margin-right: 1rem" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/800px-Adobe_XD_CC_icon.svg.png" alt="Javascript" style="width: 40px" style="height: 40px" style="margin-right: 1rem" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1920px-Npm-logo.svg.png" alt="Javascript" style="width: 60px" style="height: 60px" style="margin-right: 1rem" >
+<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" alt="Javascript" style="width: 65px" style="height: 65px" style="margin-right: 1rem" >
+</p>
+
+### Reach Out!
+
+<p>
+<a href = "https://www.linkedin.com/in/pooreffects/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/pooreffects"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://codepen.io/pooreffects" ><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/></a>
+</p>
+</span>
