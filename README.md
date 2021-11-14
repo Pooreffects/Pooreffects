@@ -33,6 +33,5 @@ Apropos academics, I have studied **_English Linguistics_**, caught a _BA scroll
 <p>
 <a href = "https://www.linkedin.com/in/pooreffects/" target="_blank" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/pooreffects" target="_blank" ><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://codepen.io/pooreffects"  target="_blank" ><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/></a>
 </p>
 </span>
