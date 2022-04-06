@@ -25,7 +25,6 @@ Apropos academics, I have studied **_English Linguistics_**, caught a _BA scroll
 <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/800px-Adobe_XD_CC_icon.svg.png" alt="Javascript" style="width: 40px" style="height: 40px" style="margin-right: 1rem" >
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1920px-Npm-logo.svg.png" alt="Javascript" style="width: 60px" style="height: 60px" style="margin-right: 1rem" >
-<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" alt="Javascript" style="width: 65px" style="height: 65px" style="margin-right: 1rem" >
 </p>
 
 ### Reach Out!
