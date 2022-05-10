@@ -15,8 +15,8 @@ Apropos academics, I have studied **_English Linguistics_**, caught a _BA scroll
 ### **Languages, Tech Skills & Tooling i can grasp and elevate**
 
 <p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" style="width: 50px" style="height: 50px"  style="margin-right: 1rem" ></code>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Javascript" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" style="width: 50px" style="height: 50px"  style="margin-right: 1rem" ></code>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Javascript" style="width: 50px" style="height: 50px"  style="margin-right: 1rem">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Javascript" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Javascript" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
