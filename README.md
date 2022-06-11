@@ -1,6 +1,6 @@
 ![Header](assets/header.png)
 
-# Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm **_Mohamed_**
+# Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm **_Mohamed_**
 
 ## A Little Bit of Background About Myself
 
