@@ -23,14 +23,14 @@ I build resilient, scalable digital products from the ground up. My focus is on 
 * **E-commerce Logistics:** Designed and currently scaling **Retourna**, a specialized returns management system for high-volume sellers.
 
 #### **Current Ventures (DEEDZ Venture Lab)**
-* **[YClipy](https://github.com/your-repo/yclipy):** AI Content Engine. Decoupled NestJS/BullMQ architecture for automated video repurposing using Gemini Flash 2.0.
-* **[TWRD](https://github.com/your-repo/twrd):** A specialized waste-brokerage bidding marketplace built as a performance-first PWA.
+* **[YClipy](https://github.com/pooreffects/yclipy):** AI Content Engine. Decoupled NestJS/BullMQ architecture for automated video repurposing using Gemini Flash 2.0.
+* **[TWRD](https://github.com/pooreffect/twrd):** A specialized waste-brokerage bidding marketplace built as a performance-first PWA.
 
 ---
 
 ### 📊 **Stats & Activity**
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pooreffects&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
 ---
