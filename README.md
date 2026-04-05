@@ -1,7 +1,7 @@
-# Hey There! 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+# Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
-## **Mohamed | Fullstack Systems Architect**
-**3+ Years of Production-Grade Experience | Leading Technical Innovation**
+## **Mohamed Benabdellah | Fullstack Developer and Systems Architect**
+**3+ Years of Production-Grade Experience | Leading Modern Frontend Engineering**
 
 I build resilient, scalable digital products that prioritize logic, maintainability, and clean architecture. My expertise lies in designing complex systems, emphasizing clean architecture, modular monoliths, and asynchronous task processing.
 
