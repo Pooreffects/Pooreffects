@@ -1,36 +1,49 @@
-![Header](assets/header.png)
+# Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> I'm **Mohamed**
 
-# Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> I'm **_Mohamed_**
+## Fullstack Software Engineer & Product Architect
+I bridge the gap between complex linguistics and scalable software. With a background in **English Linguistics** (C1 Certified) and a passion for **Computer Science**, I build digital solutions that prioritize clean architecture and seamless user experiences. 
 
-## A Little Bit of Background About Myself
-
-## <span style="color:#de5947">Frontend Developer
-
----
-
-Apropos academics, I have studied **_English Linguistics_**, caught a _BA scroll_, and had a bit of experience. Yet, I found passion in **_Computer Linguistic_**; programming, and as to do what fulfills what I fell in love with, I switched to Web development, at a self-learning pace. Henceforth, I have got consumed by possibilities and have been a day-to-day software engineering fanatic. More often than not, I have been drafting clean code on personal projects, developing software and tooling that helps people make business ideas a reality, and achieve seamless web, mobile, and 3D experiences.
+Currently, I'm focused on developing the **DEEDZ Venture Lab**, building specialized SaaS like **Retourna** (E-commerce returns management) and **YClipy** (AI-driven content automation).
 
 ---
 
-### **Languages, Tech Skills & Tooling i can grasp and elevate**
+### 🚀 What I'm Building
+* **[Retourna](https://github.com/your-repo/retourna):** A specialized Layer 2 dashboard for e-commerce returns management.
+* **[YClipy](https://github.com/your-repo/yclipy):** An AI-powered pipeline using NestJS, BullMQ, and Gemini to repurpose long-form video.
+* **[TWRD](https://github.com/your-repo/twrd):** A bidding marketplace PWA for waste brokerage.
 
+---
+
+### 🛠 Tech Stack & Tooling
+I specialize in the **JavaScript/TypeScript** ecosystem, favoring a "clean monolith" approach that scales efficiently.
+
+**Frontend & Mobile**
 <p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" style="width: 50px" style="height: 50px"  style="margin-right: 1rem" ></code>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Javascript" style="width: 50px" style="height: 50px"  style="margin-right: 1rem">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Javascript" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Javascript" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Javascript" style="width: 50px" style="height: 50px" style="margin-right: 1rem" >
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/800px-Adobe_XD_CC_icon.svg.png" alt="Javascript" style="width: 40px" style="height: 40px" style="margin-right: 1rem" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1920px-Npm-logo.svg.png" alt="Javascript" style="width: 60px" style="height: 60px" style="margin-right: 1rem" >
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,sass" alt="Frontend Tech" />
 </p>
 
-### Reach Out!
+**Backend & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,postgres,prisma,redis,docker" alt="Backend Tech" />
+</p>
+
+**Architecture & Design**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,npm,postman" alt="Tooling" />
+</p>
+
+---
+
+### 💬 Let's Connect
+I'm always open to discussing product architecture, agentic coding tools (Cline/Roo Code), or the future of tech content.
 
 <p>
-<a href = "https://www.linkedin.com/in/pooreffects/" target="_blank" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/pooreffects" target="_blank" ><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href="https://www.linkedin.com/in/pooreffects/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="35"/>
+  </a>
+  <a href="https://twitter.com/pooreffects" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="35"/>
+  </a>
 </p>
-</span>
+
+---
