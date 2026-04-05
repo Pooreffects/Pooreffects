@@ -1,41 +1,42 @@
-# Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> I'm **Mohamed**
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> I'm **Mohamed**
 
-## Fullstack Software Engineer & Product Architect
-I bridge the gap between complex linguistics and scalable software. With a background in **English Linguistics** (C1 Certified) and a passion for **Computer Science**, I build digital solutions that prioritize clean architecture and seamless user experiences. 
+## **Fullstack Software Engineer & Product Architect**
+**3+ Years of Production-Grade Experience | JS/TS Ecosystem Specialist**
 
-Currently, I'm focused on developing the **DEEDZ Venture Lab**, building specialized SaaS like **Retourna** (E-commerce returns management) and **YClipy** (AI-driven content automation).
-
----
-
-### 🚀 What I'm Building
-* **[Retourna](https://github.com/your-repo/retourna):** A specialized Layer 2 dashboard for e-commerce returns management.
-* **[YClipy](https://github.com/your-repo/yclipy):** An AI-powered pipeline using NestJS, BullMQ, and Gemini to repurpose long-form video.
-* **[TWRD](https://github.com/your-repo/twrd):** A bidding marketplace PWA for waste brokerage.
+I build resilient, scalable digital products from the ground up. My focus is on **Clean Architecture**, **Asynchronous Task Processing**, and **Product-Market Fit**. Whether I'm architecting a Layer 2 e-commerce dashboard or an AI-driven automation pipeline, I prioritize code maintainability and "Shark MVP" speed.
 
 ---
 
-### 🛠 Tech Stack & Tooling
-I specialize in the **JavaScript/TypeScript** ecosystem, favoring a "clean monolith" approach that scales efficiently.
+### 🛠 **The Stack**
+* **Core:** TypeScript, Node.js, NestJS (Modular Monoliths).
+* **Frontend:** React, Next.js, Tailwind CSS, Shadcn UI, Zustand.
+* **Infrastructure:** PostgreSQL, Prisma/TypeORM, Redis (BullMQ), Docker, MinIO.
+* **Workflow:** Agentic Coding (Cline/Roo Code), CI/CD, Git Flow.
 
-**Frontend & Mobile**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,sass" alt="Frontend Tech" />
-</p>
+---
 
-**Backend & Infrastructure**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,postgres,prisma,redis,docker" alt="Backend Tech" />
-</p>
+### 🏆 **Milestones & Projects**
 
-**Architecture & Design**
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,git,npm,postman" alt="Tooling" />
+#### **Freelance & Production Milestones**
+* **Fintech & Enterprise:** Coordinated and led technical setups for high-stakes interviews and integrations (e.g., Gulf Bank Algeria).
+* **Marketplace Engineering:** Architected **Remorkiny**, a P2P vehicle recovery platform using React Native and geospatial indexing.
+* **E-commerce Logistics:** Designed and currently scaling **Retourna**, a specialized returns management system for high-volume sellers.
+
+#### **Current Ventures (DEEDZ Venture Lab)**
+* **[YClipy](https://github.com/your-repo/yclipy):** AI Content Engine. Decoupled NestJS/BullMQ architecture for automated video repurposing using Gemini Flash 2.0.
+* **[TWRD](https://github.com/your-repo/twrd):** A specialized waste-brokerage bidding marketplace built as a performance-first PWA.
+
+---
+
+### 📊 **Stats & Activity**
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
 ---
 
-### 💬 Let's Connect
-I'm always open to discussing product architecture, agentic coding tools (Cline/Roo Code), or the future of tech content.
+### 📫 **Let's Build Something Great**
+I’m currently open to architectural consulting and high-impact fullstack roles.
 
 <p>
   <a href="https://www.linkedin.com/in/pooreffects/" target="_blank">
@@ -45,5 +46,3 @@ I'm always open to discussing product architecture, agentic coding tools (Cline/
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="35"/>
   </a>
 </p>
-
----
