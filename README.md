@@ -1,42 +1,52 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> I'm **Mohamed**
+# Hey There! 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
-## **Fullstack Software Engineer & Product Architect**
-**3+ Years of Production-Grade Experience | JS/TS Ecosystem Specialist**
+## **Mohamed | Fullstack Systems Architect**
+**3+ Years of Production-Grade Experience | Leading Technical Innovation**
 
-I build resilient, scalable digital products from the ground up. My focus is on **Clean Architecture**, **Asynchronous Task Processing**, and **Product-Market Fit**. Whether I'm architecting a Layer 2 e-commerce dashboard or an AI-driven automation pipeline, I prioritize code maintainability and "Shark MVP" speed.
-
----
-
-### 🛠 **The Stack**
-* **Core:** TypeScript, Node.js, NestJS (Modular Monoliths).
-* **Frontend:** React, Next.js, Tailwind CSS, Shadcn UI, Zustand.
-* **Infrastructure:** PostgreSQL, Prisma/TypeORM, Redis (BullMQ), Docker, MinIO.
-* **Workflow:** Agentic Coding (Cline/Roo Code), CI/CD, Git Flow.
+I build resilient, scalable digital products that prioritize logic, maintainability, and clean architecture. My expertise lies in designing complex systems, emphasizing clean architecture, modular monoliths, and asynchronous task processing.
 
 ---
 
-### 🏆 **Milestones & Projects**
+### 🏆 **Freelance Milestones & Projects**
 
-#### **Freelance & Production Milestones**
-* **Fintech & Enterprise:** Coordinated and led technical setups for high-stakes interviews and integrations (e.g., Gulf Bank Algeria).
-* **Marketplace Engineering:** Architected **Remorkiny**, a P2P vehicle recovery platform using React Native and geospatial indexing.
-* **E-commerce Logistics:** Designed and currently scaling **Retourna**, a specialized returns management system for high-volume sellers.
+#### **Freelance Impact (Fullstack Consulting)**
+* **Fintech & Enterprise:** Provided technical leadership for critical Gulf Bank Algeria (AGB) integration strategies.
+* **Marketplace Engineering:** Architected and deployed **Remorkiny**, a P2P vehicle recovery platform using React Native and geospatial data.
+* **E-commerce Operations:** Designed and currently scaling **Retourna**, a Layer 2 dashboard for high-volume returns logistics.
 
 #### **Current Ventures (DEEDZ Venture Lab)**
-* **[YClipy](https://github.com/pooreffects/yclipy):** AI Content Engine. Decoupled NestJS/BullMQ architecture for automated video repurposing using Gemini Flash 2.0.
-* **[TWRD](https://github.com/pooreffect/twrd):** A specialized waste-brokerage bidding marketplace built as a performance-first PWA.
+* **[YClipy](https://github.com/Pooreffects/yclipy):** AI Content Automation. A decoupled NestJS/BullMQ system for automated long-to-short video repurposing.
+* **[TWRD](https://github.com/Pooreffects/twrd):** Waste Brokerage PWA. High-performance, performance-first bidding marketplace.
 
 ---
 
-### 📊 **Stats & Activity**
+### 🛠 **The Stack (JS/TS Ecosystem)**
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Pooreffects&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,python,tailwind,vue,react,mongodb,postgres,prisma,docker,figma" alt="Fullstack Tech Stack" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Currently Online Badge" />
+  <img src="https://img.shields.io/badge/playing-nothing_rn-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Playing nothing rn Badge" />
+  <img src="https://img.shields.io/badge/coding-nothing_rn-blue?style=flat-square&logo=spotify&logoColor=white" alt="Coding nothing rn Badge" />
+  <img src="https://img.shields.io/badge/listening_to-nothing_rn-blue?style=flat-square&logo=discord&logoColor=white" alt="Listening nothing rn Badge" />
 </p>
 
 ---
 
+### <details> <summary> 📊 **Github Stats ⚡** </summary>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pooreffects&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooreffects&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" />
+</p>
+</details>
+
+---
+
 ### 📫 **Let's Build Something Great**
-I’m currently open to architectural consulting and high-impact fullstack roles.
+I’m currently open to architectural consulting and high-impact fullstack engineering roles.
 
 <p>
   <a href="https://www.linkedin.com/in/pooreffects/" target="_blank">
