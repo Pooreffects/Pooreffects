@@ -38,7 +38,6 @@ I build resilient, scalable digital products that prioritize logic, maintainabil
 ### <details> <summary> 📊 **Github Stats ⚡** </summary>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pooreffects&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooreffects&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" />
 </p>
 </details>
